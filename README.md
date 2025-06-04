@@ -97,4 +97,4 @@ ReconX gives power to bug hunters who want complete visibility in their recon wi
 📄 License
 MIT License – use it, modify it, abuse it.
 
-🔥 Created by YourName
+🔥 Created by x-ception
