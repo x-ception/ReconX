@@ -43,7 +43,10 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/ReconX.git && cd ReconX
 ```
-
+Install the requirements:
+```bash
+pip3 install -r requirements.txt
+```
 Make the script executable:
 ```bash
 chmod +x reconx.py
