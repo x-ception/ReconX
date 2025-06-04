@@ -32,7 +32,7 @@ Ensure the following tools are installed and added to your `$PATH`:
 - **Python 3.7+**
 - Python module: `discordwebhook`
   Install using:
-pip install discordwebhook
+```pip install discordwebhook```
 
 
 ---
