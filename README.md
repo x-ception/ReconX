@@ -64,7 +64,7 @@ discord = Discord(url="YOUR_DISCORD_WEBHOOK_URL")
 with your actual Discord webhook URL.
 
 
-🧪 Usage
+🧪 Usage:
 Run the script and enter your domain when prompted:
 ```python
 python3 reconx.py
