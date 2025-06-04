@@ -41,7 +41,7 @@ Ensure the following tools are installed and added to your `$PATH`:
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/ReconX.git && cd ReconX
+git clone https://github.com/x-ception/ReconX.git && cd ReconX
 ```
 Install the requirements:
 ```bash
